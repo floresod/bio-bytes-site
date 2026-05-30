@@ -2,15 +2,29 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "bio-bytes-site",
+    "title": "Bio-bytes",
     "section": "",
-    "text": "Quarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see https://quarto.org."
+    "text": "I work in bioinformatics, data analysis, and R programming.\nI build: - reproducible data pipelines in R - Shiny apps - biological data analyses"
   },
   {
-    "objectID": "index.html#quarto",
-    "href": "index.html#quarto",
-    "title": "bio-bytes-site",
+    "objectID": "index.html#welcome-to-biobytes",
+    "href": "index.html#welcome-to-biobytes",
+    "title": "Bio-bytes",
     "section": "",
-    "text": "Quarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see https://quarto.org."
+    "text": "I work in bioinformatics, data analysis, and R programming.\nI build: - reproducible data pipelines in R - Shiny apps - biological data analyses"
+  },
+  {
+    "objectID": "index.html#featured-work",
+    "href": "index.html#featured-work",
+    "title": "Bio-bytes",
+    "section": "Featured work",
+    "text": "Featured work\n\nMicrobiome analyses\nAMR analysis workflows\n\nMulti-Omics data integration\nR-based reporting systems"
+  },
+  {
+    "objectID": "index.html#contact",
+    "href": "index.html#contact",
+    "title": "Bio-bytes",
+    "section": "Contact",
+    "text": "Contact\nLinkedIn"
   }
 ]

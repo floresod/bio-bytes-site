@@ -1,7 +1,27 @@
 ---
-title: "bio-bytes-site"
+title: "Bio-bytes"
 ---
 
-## Quarto
+## Welcome to Biobytes
 
-Quarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see <https://quarto.org>.
+I work in **bioinformatics, data analysis, and R programming**.
+
+I build:
+- reproducible data pipelines in R
+- Shiny apps
+- biological data analyses
+
+---
+
+## Featured work
+
+- Microbiome analyses
+- AMR analysis workflows  
+- Multi-Omics data integration
+- R-based reporting systems  
+
+---
+
+## Contact
+
+[LinkedIn](https://www.linkedin.com/in/daniel-flores-orozco-06645378/)
