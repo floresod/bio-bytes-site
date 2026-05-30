@@ -1,0 +1,15 @@
+project:
+  type: website
+
+website:
+  title: "BioBytes"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+
+format:
+  html:
+    theme: cosmo
+    toc: true
+
