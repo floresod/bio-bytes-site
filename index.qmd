@@ -1,8 +1,21 @@
 ---
-title: "Bio-bytes"
+title: "Daniel Flores Orozco"
+image: "images/Avatar3.png"
+
+about:
+  template: trestles
+  links:
+    - icon: linkedin
+      href: https://www.linkedin.com/in/daniel-flores-orozco-06645378/
+    - icon: github
+      href: https://github.com/floresod
+    - text: "{{< ai google-scholar >}}"
+      href: https://scholar.google.com/citations?user=LxuXcX8AAA
+      target: _blank
 ---
 
-## Welcome to Biobytes
+
+## Welcome to my personal website bio-bytes
 
 I work in **bioinformatics, data analysis, and R programming**.
 
@@ -22,7 +35,3 @@ I build:
 - R-based reporting systems  
 
 ---
-
-## Contact
-
-[LinkedIn](https://www.linkedin.com/in/daniel-flores-orozco-06645378/)

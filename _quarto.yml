@@ -1,8 +1,13 @@
 project:
   type: website
 
+# Meta 
+description-meta: "First Bio-bytes website adapted by Daniel"
+author-meta: "Dr. Daniel Flores Orozco"
+
 website:
-  title: "BioBytes"
+  title: "Bio-Bytes"
+  image: images/Avatar3.png
   navbar:
     left:
       - href: index.qmd
@@ -10,6 +15,6 @@ website:
 
 format:
   html:
-    theme: cosmo
+    theme: solar
     toc: true
 
