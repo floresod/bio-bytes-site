@@ -17,21 +17,6 @@ about:
 
 ## Welcome to my personal website bio-bytes
 
-I work in **bioinformatics, data analysis, and R programming**.
+I am a researcher and data analyst at the THRiVE Discovery Lab at the University of Manitoba, with a background in engineering and a strong interest in how data can be used to better understand the world around us. Outside of research, I spend time on the soccer field as both a player and a referee.
 
-I build:
-
-- reproducible data pipelines in R
-- Shiny apps
-- biological data analyses
-
----
-
-## Featured work
-
-- Microbiome analyses
-- AMR analysis workflows  
-- Multi-Omics data integration
-- R-based reporting systems  
-
----
+I am particularly passionate about working with reliable data and turning it into meaningful insights. I also enjoy building interactive dashboards and tools that make complex information easier to explore, interpret, and communicate.. 
