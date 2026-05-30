@@ -7,6 +7,7 @@ title: "Bio-bytes"
 I work in **bioinformatics, data analysis, and R programming**.
 
 I build:
+
 - reproducible data pipelines in R
 - Shiny apps
 - biological data analyses
