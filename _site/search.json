@@ -4,13 +4,48 @@
     "href": "index.html",
     "title": "Daniel Flores Orozco",
     "section": "",
-    "text": "I am a researcher and data analyst at the THRiVE Discovery Lab at the University of Manitoba, with a background in engineering and a strong interest in how data can be used to better understand the world around us. Outside of research, I spend time on the soccer field as both a player and a referee.\nI am particularly passionate about working with reliable data and turning it into meaningful insights. I also enjoy building interactive dashboards and tools that make complex information easier to explore, interpret, and communicate.."
+    "text": "I am a researcher and data analyst at the THRiVE Discovery Lab at the University of Manitoba, with a background in biosystems engineering and a strong interest in how data can be used to better understand the world around us.\nI am particularly passionate about working with reliable data and turning it into meaningful insights. I also enjoy building interactive dashboards and tools that make complex information easier to explore, interpret, and communicate."
   },
   {
     "objectID": "index.html#welcome-to-my-personal-website-bio-bytes",
     "href": "index.html#welcome-to-my-personal-website-bio-bytes",
     "title": "Daniel Flores Orozco",
     "section": "",
-    "text": "I am a researcher and data analyst at the THRiVE Discovery Lab at the University of Manitoba, with a background in engineering and a strong interest in how data can be used to better understand the world around us. Outside of research, I spend time on the soccer field as both a player and a referee.\nI am particularly passionate about working with reliable data and turning it into meaningful insights. I also enjoy building interactive dashboards and tools that make complex information easier to explore, interpret, and communicate.."
+    "text": "I am a researcher and data analyst at the THRiVE Discovery Lab at the University of Manitoba, with a background in biosystems engineering and a strong interest in how data can be used to better understand the world around us.\nI am particularly passionate about working with reliable data and turning it into meaningful insights. I also enjoy building interactive dashboards and tools that make complex information easier to explore, interpret, and communicate."
+  },
+  {
+    "objectID": "research.html",
+    "href": "research.html",
+    "title": "Research",
+    "section": "",
+    "text": "Using next-generation sequencing (NGS) technologies to study microbial communities across a wide range of biological systems, including the human body, environmental matrices, and engineered environments. I am particularly interested in understanding the roles microorganisms play in shaping the function, health, and resilience of these complex ecosystems."
+  },
+  {
+    "objectID": "research.html#metagenomics-and-microbiome-analyses",
+    "href": "research.html#metagenomics-and-microbiome-analyses",
+    "title": "Research",
+    "section": "",
+    "text": "Using next-generation sequencing (NGS) technologies to study microbial communities across a wide range of biological systems, including the human body, environmental matrices, and engineered environments. I am particularly interested in understanding the roles microorganisms play in shaping the function, health, and resilience of these complex ecosystems."
+  },
+  {
+    "objectID": "research.html#antimicrobial-resistance-in-the-environment",
+    "href": "research.html#antimicrobial-resistance-in-the-environment",
+    "title": "Research",
+    "section": "Antimicrobial Resistance in the environment",
+    "text": "Antimicrobial Resistance in the environment\nInvestigating how natural and engineered systems contribute to the selection, evolution, and dissemination of antimicrobial resistance (AMR). My research aims to improve our understanding of AMR dynamics and identify strategies to help mitigate this growing global challenge."
+  },
+  {
+    "objectID": "research.html#anaerobic-digestion",
+    "href": "research.html#anaerobic-digestion",
+    "title": "Research",
+    "section": "Anaerobic Digestion",
+    "text": "Anaerobic Digestion\nExploring the use of anaerobic digestion (AD) to convert organic waste into renewable energy in the form of biogas, reduce greenhouse gas emissions, and stabilize organic residuals such as animal manure and biosolids."
+  },
+  {
+    "objectID": "research.html#developmental-origins-of-health-and-disease-dohad",
+    "href": "research.html#developmental-origins-of-health-and-disease-dohad",
+    "title": "Research",
+    "section": "Developmental Origins of Health and Disease (DOHaD)",
+    "text": "Developmental Origins of Health and Disease (DOHaD)\nStudying how early-life environmental exposures, nutrition, and microbial interactions influence health and disease trajectories across the lifespan. This work seeks to better understand the biological mechanisms that connect prenatal and early childhood experiences with long-term health outcomes"
   }
 ]

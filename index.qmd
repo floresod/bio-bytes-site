@@ -12,11 +12,14 @@ about:
     - text: "{{< ai google-scholar >}}"
       href: https://scholar.google.com/citations?user=LxuXcX8AAA
       target: _blank
+    - text: '<i class="ai ai-researchgate fa-lg"></i>'
+      href: https://www.researchgate.net/profile/Daniel-Flores-Orozco
+    - text: '<i class="ai ai-orcid fa-lg"></i>'
+      href: https://orcid.org/0000-0002-1824-9088
 ---
-
 
 ## Welcome to my personal website bio-bytes
 
-I am a researcher and data analyst at the THRiVE Discovery Lab at the University of Manitoba, with a background in engineering and a strong interest in how data can be used to better understand the world around us. Outside of research, I spend time on the soccer field as both a player and a referee.
+I am a researcher and data analyst at the THRiVE Discovery Lab at the University of Manitoba, with a background in biosystems engineering and a strong interest in how data can be used to better understand the world around us.
 
-I am particularly passionate about working with reliable data and turning it into meaningful insights. I also enjoy building interactive dashboards and tools that make complex information easier to explore, interpret, and communicate.. 
+I am particularly passionate about working with reliable data and turning it into meaningful insights. I also enjoy building interactive dashboards and tools that make complex information easier to explore, interpret, and communicate.

@@ -1,0 +1,26 @@
+---
+title: "Research"
+format: html
+toc: true
+toc-location: left
+execute:
+    echo: false
+    message: false
+    warning: false
+---
+
+## Metagenomics and Microbiome Analyses 
+
+Using next-generation sequencing (NGS) technologies to study microbial communities across a wide range of biological systems, including the human body, environmental matrices, and engineered environments. I am particularly interested in understanding the roles microorganisms play in shaping the function, health, and resilience of these complex ecosystems.
+
+## Antimicrobial Resistance in the environment
+
+Investigating how natural and engineered systems contribute to the selection, evolution, and dissemination of antimicrobial resistance (AMR). My research aims to improve our understanding of AMR dynamics and identify strategies to help mitigate this growing global challenge.
+
+## Anaerobic Digestion 
+
+Exploring the use of anaerobic digestion (AD) to convert organic waste into renewable energy in the form of biogas, reduce greenhouse gas emissions, and stabilize organic residuals such as animal manure and biosolids.
+
+## Developmental Origins of Health and Disease (DOHaD)
+
+Studying how early-life environmental exposures, nutrition, and microbial interactions influence health and disease trajectories across the lifespan. This work seeks to better understand the biological mechanisms that connect prenatal and early childhood experiences with long-term health outcomes
