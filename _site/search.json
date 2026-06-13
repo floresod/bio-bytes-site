@@ -18,7 +18,7 @@
     "href": "research.html",
     "title": "Research",
     "section": "",
-    "text": "Using next-generation sequencing (NGS) technologies to study microbial communities across a wide range of biological systems, including the human body, environmental matrices, and engineered environments. I am particularly interested in understanding the roles microorganisms play in shaping the function, health, and resilience of these complex ecosystems."
+    "text": "My current research is grounded in the Developmental Origins of Health and Disease (DOHaD) framework, which explores how early-life exposures and experiences shape health outcomes across the lifespan. I focus on how maternal nutrition, infant feeding practices, and human milk composition influence growth, development, and long-term health during infancy and childhood.\nAs a data analyst at the THRiVE Discovery Lab, I work with multi-omics datasets derived from human milk, including microbiome, metabolomic, and other molecular data, to investigate how variation in milk composition relates to infant health outcomes. By integrating diverse data types and developing analytical approaches, I aim to identify biological mechanisms that link early-life nutrition to child growth, development, and disease risk.\nThis research is supported by a transdisciplinary team with expertise in molecular biology, epidemiology, statistics, nutrition, microbiome science, and maternal-child health. We combine clinical cohorts, model systems, and population-based datasets to better understand how early-life environments shape lifelong health."
   },
   {
     "objectID": "research.html#metagenomics-and-microbiome-analyses",
@@ -47,5 +47,19 @@
     "title": "Research",
     "section": "Developmental Origins of Health and Disease (DOHaD)",
     "text": "Developmental Origins of Health and Disease (DOHaD)\nStudying how early-life environmental exposures, nutrition, and microbial interactions influence health and disease trajectories across the lifespan. This work seeks to better understand the biological mechanisms that connect prenatal and early childhood experiences with long-term health outcomes"
+  },
+  {
+    "objectID": "research.html#current-research",
+    "href": "research.html#current-research",
+    "title": "Research",
+    "section": "",
+    "text": "My current research is grounded in the Developmental Origins of Health and Disease (DOHaD) framework, which explores how early-life exposures and experiences shape health outcomes across the lifespan. I focus on how maternal nutrition, infant feeding practices, and human milk composition influence growth, development, and long-term health during infancy and childhood.\nAs a data analyst at the THRiVE Discovery Lab, I work with multi-omics datasets derived from human milk, including microbiome, metabolomic, and other molecular data, to investigate how variation in milk composition relates to infant health outcomes. By integrating diverse data types and developing analytical approaches, I aim to identify biological mechanisms that link early-life nutrition to child growth, development, and disease risk.\nThis research is supported by a transdisciplinary team with expertise in molecular biology, epidemiology, statistics, nutrition, microbiome science, and maternal-child health. We combine clinical cohorts, model systems, and population-based datasets to better understand how early-life environments shape lifelong health."
+  },
+  {
+    "objectID": "research.html#past-research",
+    "href": "research.html#past-research",
+    "title": "Research",
+    "section": "Past Research",
+    "text": "Past Research\n\nEnvironmental Microbiology and Biotechnology\nMy previous research focused on understanding the interactions between microorganisms and their environments through the application of next-generation sequencing (NGS), metagenomics, and other molecular approaches. I studied microbial communities across a variety of systems, including the human microbiome, environmental matrices, and engineered ecosystems, with the goal of understanding how microorganisms influenced the function, health, and resilience of these complex environments.\nA key area of my research involved the study of antimicrobial resistance (AMR) in natural and engineered systems. I investigated how environmental factors contributed to the selection, evolution, and dissemination of resistance genes, with the broader objective of identifying strategies to help mitigate this growing global health challenge.\nI also conducted research on anaerobic digestion (AD) and other sustainable biotechnologies that harness microbial processes to address environmental challenges. This work included studying the production of renewable energy in the form of biogas, the reduction of greenhouse gas emissions, and the stabilization of organic residuals such as animal manure and biosolids. Through this research, I sought to better understand and optimize microbial ecosystems that contribute to a more sustainable and circular bioeconomy."
   }
 ]

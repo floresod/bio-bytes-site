@@ -7,15 +7,19 @@ about:
   links:
     - icon: linkedin
       href: https://www.linkedin.com/in/daniel-flores-orozco-06645378/
+      target: _blank
     - icon: github
       href: https://github.com/floresod
+      target: _blank
     - text: "{{< ai google-scholar >}}"
       href: https://scholar.google.com/citations?user=LxuXcX8AAA
       target: _blank
     - text: '<i class="ai ai-researchgate fa-lg"></i>'
       href: https://www.researchgate.net/profile/Daniel-Flores-Orozco
+      target: _blank
     - text: '<i class="ai ai-orcid fa-lg"></i>'
       href: https://orcid.org/0000-0002-1824-9088
+      target: _blank
 ---
 
 ## Welcome to my personal website bio-bytes
